@@ -1,9 +1,10 @@
-# rapid dev
-node js es7 bootstrap template
+# doctors aid
+node js es7 
 
-Requirements
+Requirements <br/>
 mongodb
 nodejs
 
-Getting started 
+Getting started </br>
+fill in env variables from .env.sample<br/>
 npm install && npm start-dev
